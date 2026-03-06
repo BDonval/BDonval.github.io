@@ -1,3 +1,10 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 title: Mon portfolio de doctorant
 description: Ce site web en Markdown est mon portfolio de doctorant. Il a pour but de présenter de manière réflexive les compétences que je développe durant mon doctorat en Sciences de l'Information et de la Communication (SIC). Ce site sera enrichi tout au long du doctorat.
+author:
+  name: "Bastian Donval"
+  hal_science: "www.linkedin.com/in/bastian-donval"
+social:
+  linkedin: "www.linkedin.com/in/bastian-donval"
+  mail: "mailto:bastian.donval@tutamail.com"
+  
